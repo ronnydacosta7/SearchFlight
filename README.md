@@ -2,7 +2,6 @@
 This code is for mobile application And has only one test case: Search Flight
 
 Tools and technology used:
-
 * IDE : Eclipse
 * Progamming Language : java
 * Appium and Cucumber
@@ -10,7 +9,7 @@ Tools and technology used:
 * APK from https://traveloka.en.uptodown.com/android (traveloka-3-46-0.apk)
 
 ## How To run?
-*start appium server
-*launch emulator
-*Open the project
-*go to src/test/java > features > searchFlight.feature > right click > Run as > Cucumber feature
+* start appium server
+* launch emulator
+* Open the project
+* go to src/test/java > features > searchFlight.feature > right click > Run as > Cucumber feature
