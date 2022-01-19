@@ -1,5 +1,5 @@
 ## Search Flight Traveloka
-This code is for mobile application And have one test case only: Search Flight
+This code is for mobile application And has only one test case: Search Flight
 
 Tools and technology used:
 
